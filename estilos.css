@@ -1,7 +1,7 @@
 
 .background {
     font-family: 'Poppins', sans-serif;
-    background-image: url(images/escuteiros2.jpg);
+    background-image: url(escuteiros2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     overflow-x: hidden;
@@ -52,7 +52,7 @@
 }
 
 .jumbotron {
-    background-image: url(images/escuteiros2.jpg);
+    background-image: url(escuteiros2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
